@@ -1,7 +1,0 @@
-Welcome to the Project that is submitted.
-
-Institute : NIBM
-Batch : HNDDS21.1P/CO
-Course : Linux Command Line, Bash programming and Git
-Name : Aqeel Dewangso
-ID : HNDDS21.1P-004
